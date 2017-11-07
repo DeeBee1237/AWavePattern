@@ -1,5 +1,4 @@
-#include <iostream>
-
+#include <stdio.h>
 
 void makeThePattern (int patternNumber) {
     // create a new 2d array and determine the width and height:
